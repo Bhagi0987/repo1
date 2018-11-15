@@ -1,5 +1,5 @@
-hello test
+hello test ###dev1
 {
-	println("hello test.java file")
+	println("hello test.java file") ###dev2
 }
-
+eof
