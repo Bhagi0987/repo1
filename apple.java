@@ -2,7 +2,7 @@
 	A for apple
 	B for ball
 	C for cat
-	D for dell
+	D for dog
 	E for elephant
 }
 
