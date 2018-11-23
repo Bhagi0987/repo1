@@ -3,6 +3,7 @@
 	B for ball
 	C for cat
 	D for dog
-	E for egg
+	E for evil
+	F for fun
 }
 
