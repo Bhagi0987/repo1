@@ -2,6 +2,7 @@
 	A for apple
 	B for ball
 	C for cat
-	D for donkey
+	D for dog
+	E for egg
 }
 
